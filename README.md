@@ -31,6 +31,3 @@ Mini robot that mimics human movement using MediaPipe and ESP32-based control.
 /Software
 /BOM
 
-## License
-
-MIT License
