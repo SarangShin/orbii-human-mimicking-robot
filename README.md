@@ -23,3 +23,6 @@ Mini robot that mimics human movement using MediaPipe and ESP32-based control.
 - MediaPipe
 - OpenCV
 - Arduino Framework
+
+## License
+This project is licensed under the MIT License.
