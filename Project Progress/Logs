@@ -43,5 +43,8 @@ August 15, 2026
 - Robotic arm parts printed for servo installation but dimensional tolerance issues identified affecting rotational performance.
 - Updated CAD models and reprinted.
 
-August 17, 2026
+August 18, 2026
+- Printer filament extruder failed during the arm printing so re-initiated to print the arm. 
+
+August 20, 2026
 - BOM created for replacement of faulty components and additional materials required for Orbii.
